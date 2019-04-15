@@ -1,6 +1,3 @@
-# MachineLearningWithPython
-##Machine Learning Algorithms and Projects
-![image.png](images/HRTalent.png)
 # PEOPLE ANALYTICS WITH ATTRITION PREDICTION
 ![image.png](images/HRTalent.png)
 
