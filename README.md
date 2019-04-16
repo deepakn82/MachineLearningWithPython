@@ -1,3 +1,5 @@
+[IPL Prediction](./IPL_Prediction)
+
 # PEOPLE ANALYTICS WITH ATTRITION PREDICTION
 ![image.png](images/HRTalent.png)
 
