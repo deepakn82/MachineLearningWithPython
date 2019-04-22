@@ -30,9 +30,10 @@ According to WHO there are about 1.38 million new cases and 458 000 deaths from 
 
 - Attribute Information:
 
-- 1) ID number 2) Diagnosis (M = malignant, B = benign) 
+- 1) ID number 
+- 2) Diagnosis (M = malignant, B = benign) 
 
-- Ten real-valued features are computed for each cell nucleus:
+- Ten real-valued features are computed for each cell nucleus <br>
 -- radius (mean of distances from center to points on the perimeter)
 -- texture (standard deviation of gray-scale values)
 •perimeter
