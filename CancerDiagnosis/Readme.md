@@ -29,20 +29,20 @@ According to WHO there are about 1.38 million new cases and 458 000 deaths from 
 - Dataset has been downloaded from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
 - Attribute Information:
-- ID number 
-- Diagnosis (M = malignant, B = benign) 
+-- ID number 
+-- Diagnosis (M = malignant, B = benign) 
 
 - Ten real-valued features are computed for each cell nucleus <br>
--- radius (mean of distances from center to points on the perimeter)
--- texture (standard deviation of gray-scale values)
--- perimeter
--- area 
--- smoothness (local variation in radius lengths) 
--- compactness (perimeter^2 / area - 1.0)
--- concavity (severity of concave portions of the contour)
--- concave points (number of concave portions of the contour)
--- symmetry
--- fractal dimension ("coastline approximation" - 1)
+-- radius (mean of distances from center to points on the perimeter)<br>
+-- texture (standard deviation of gray-scale values)<br>
+-- perimeter<br>
+-- area <br>
+-- smoothness (local variation in radius lengths) <br>
+-- compactness (perimeter^2 / area - 1.0)<br>
+-- concavity (severity of concave portions of the contour)<br>
+-- concave points (number of concave portions of the contour)<br>
+-- symmetry<br>
+-- fractal dimension ("coastline approximation" - 1)<br>
 
 - The mean, standard error and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
 
