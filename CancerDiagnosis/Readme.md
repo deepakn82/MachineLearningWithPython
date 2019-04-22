@@ -28,9 +28,9 @@ According to WHO there are about 1.38 million new cases and 458 000 deaths from 
 
 - Dataset has been downloaded from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
-- Attribute Information:
--- ID number 
--- Diagnosis (M = malignant, B = benign) 
+- Attribute Information <br>
+-- ID number <br>
+-- Diagnosis (M = malignant, B = benign)<br> 
 
 - Ten real-valued features are computed for each cell nucleus <br>
 -- radius (mean of distances from center to points on the perimeter)<br>
