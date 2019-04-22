@@ -31,6 +31,7 @@ According to WHO there are about 1.38 million new cases and 458 000 deaths from 
 - Attribute Information <br>
 -- ID number <br>
 -- Diagnosis (M = malignant, B = benign)<br> 
+-- A benign tumor is a tumor that does not invade its surrounding tissue or spread around the body. A malignant tumor is a tumor that may invade its surrounding tissue or spread around the body.
 
 - Ten real-valued features are computed for each cell nucleus <br>
 -- radius (mean of distances from center to points on the perimeter)<br>
