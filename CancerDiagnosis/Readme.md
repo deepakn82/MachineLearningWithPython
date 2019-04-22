@@ -46,12 +46,12 @@ According to WHO there are about 1.38 million new cases and 458 000 deaths from 
 -- fractal dimension ("coastline approximation" - 1)<br>
 
 - The mean, standard error and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
-
 - All feature values are recoded with four significant digits.
-
 - Missing attribute values: none
-
 - Class distribution: 357 benign, 212 malignant
+- The data set has 569 rows and 33 columns.
+
+# EDA
 
 
 
