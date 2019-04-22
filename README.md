@@ -11,7 +11,7 @@ The given repository showcases the application of various algorithms available a
 ## Index
 
 - [Cancer Diagnosis](#section1)<br>
-- [](#section2)<br>
+[](#section2)<br>
 
 <a id=section1></a>
 ### [Cancer Diagnosis](./CancerDiagnosis)
