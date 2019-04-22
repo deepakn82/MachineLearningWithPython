@@ -1,5 +1,5 @@
 # Breast Cancer Detection<br>
-![image.PNG](CancerDiagnosis/can3.PNG)<br>
+![image.jpg](images/can3.jpg)<br>
 - Cancer Detection is a one of the most resarched topic in not only in field of Medicine but also in Instrument technology and machine learning.
 - Among all types of cancer breast cancer has the maximum share.
 - With increase in unhealtty lifesytle and polluting envioronment it has been more important than ever to study and diagnose.
