@@ -49,9 +49,15 @@ According to WHO there are about 1.38 million new cases and 458 000 deaths from 
 - All feature values are recoded with four significant digits.
 - Missing attribute values: none
 - Class distribution: 357 benign, 212 malignant
-- The data set has 569 rows and 33 columns.
+- The data set has __569 rows and 33 columns__.
 
 # EDA
+- Of 33 columns, "Unnamed: 32" is one of those that has no value populated and hence will be dropped.
+- The dependent variable i.e __diagnosis__ is categorical and hence will be converted to numerical.
+
+# Classifier used
+- Initially the __Random Forest Classifier__ has been used. It has taken __209 seconds__ and has presented __95%__ accuracy.
+- Further to optimize the approcah, __Principal component analysis__ has been taken in to consideration. It has taken __169 seconds__ and has presented __92 %__ accuracy 
 
 
 
