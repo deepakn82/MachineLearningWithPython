@@ -15,7 +15,7 @@ The given repository showcases the application of various algorithms available a
 
 <a id=section1></a>
 ### [Cancer Diagnosis](./CancerDiagnosis)
-![image.png](images/can1.png)<br><br>
+![image.png](images/can1.PNG)<br><br>
 - Breast cancer is the most frequent cancer among women, impacting __2.1 million__ women each year, and also causes the __greatest number of cancer-related deaths__ among women
 - The best way to treat and overcome Cancer of anytype, and not only Breast Cancer is to diagnoze as early as possible.
 - An effort to build a model which helps in reducing the churn rate for a telecom company.
