@@ -1,5 +1,5 @@
 # MachineLearningUsingPython
-![image.PNG](image/banner.PNG)
+![image.PNG](image/banner.PNG)<br><br>
 With advancement in computer technology, with more and faster computational power at disposal ___Machine Learning___ has has taken center stage in __disrupting the legacy methods of problem solving__ approach.<br>
 
 __What does Machine Learning really means?__
