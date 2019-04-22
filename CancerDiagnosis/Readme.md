@@ -17,6 +17,8 @@ According to WHO there are about 1.38 million new cases and 458 000 deaths from 
 
 ## Classification Problem
 
+![image.jpg](cp.JPG)
+
 - In Machine learning the output of detection for any disease is considered in binary format, i.e With the given data set/input data of subject/patient will infected with the given disease or not. 
 - The given data or the input data is nothing but the test results that are conducted while examining the patient.
 
