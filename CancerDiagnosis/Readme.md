@@ -48,7 +48,7 @@ According to WHO there are about 1.38 million new cases and 458 000 deaths from 
 - The mean, standard error and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
 - All feature values are recoded with four significant digits.
 - Missing attribute values: none
-- Class distribution: 357 benign, 212 malignant
+- Class distribution: The data here is not very much unbalanced as we see that i.e __357 benign (62.7%), 212 malignant(37.3%)__
 - The data set has __569 rows and 33 columns__.
 
 # EDA
