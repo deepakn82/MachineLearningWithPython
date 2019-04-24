@@ -51,7 +51,7 @@ According to WHO there are about 1.38 million new cases and 458 000 deaths from 
 - Class distribution: The data here is not very much unbalanced as we see that i.e __357 benign (62.7%), 212 malignant(37.3%)__
 - The data set has __569 rows and 33 columns__.
 
-# EDA
+## EDA
 - List of columns 
 - id, diagnosis, radius_mean, texture_mean, perimeter_mean, area_mean, smoothness_mean, compactness_mean, concavity_mean,
  concave points_mean, symmetry_mean, fractal_dimension_mean, radius_se, texture_se, perimeter_se, area_se, smoothness_se,
@@ -61,7 +61,7 @@ According to WHO there are about 1.38 million new cases and 458 000 deaths from 
 - Of 33 columns, "Unnamed: 32" is one of those that has no value populated and hence will be dropped.
 - The dependent variable i.e __diagnosis__ is categorical and hence will be converted to numerical.
 
-# Classifier used
+## Classifier used
 - Initially the __Random Forest Classifier__ has been used. It has taken __209 seconds__ and has presented __95%__ accuracy.
 - Further to optimize the approcah, __Principal component analysis__ has been taken in to consideration. It has taken __169 seconds__ and has presented __92 %__ accuracy 
 
