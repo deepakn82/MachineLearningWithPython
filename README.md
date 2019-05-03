@@ -24,4 +24,7 @@ The given repository showcases the application of various algorithms available a
 
 <a id=section2></a>
 ### [Hair Type Detection](./HairTypeDetection)
-
+![image.PNG](images/hairtype.PNG)<img align="right"><br><br>
+- __Ghouls, Goblin & Ghosts__ are mostly related with ___halloween___ characters. _Ghouls_ who are considered to be evil spirt, _Goblins_ are mischievous, ugly creatures. _Ghosts_ on other hand are sprits who are yet to take a new form of life.
+- The data set here attempts to distinguish between the three characters, based upon the hair type.
+- [Link for the Jupyter notebook](./HairTypeDetection/HairTypeDetection.ipynb)
