@@ -1,1 +1,1 @@
-
+# Character Detection
