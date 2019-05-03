@@ -19,7 +19,7 @@ The given repository showcases the application of various algorithms available a
 ![image.png](images/can1.PNG)<br><br>
 - Breast cancer is the most frequent cancer among women, impacting __2.1 million__ women each year, and also causes the __greatest number of cancer-related deaths__ among women
 - The best way to treat and overcome Cancer of anytype, and not only Breast Cancer is to diagnoze as early as possible.
-- An endaveour to save lives buy predicting breast cancer.
+- An endaveour to save lives by predicting breast cancer.
 - [Link for the Jupyter notebook](./CancerDiagnosis/Cancer_Diagnosis.ipynb)
 
 <a id=section2></a>
