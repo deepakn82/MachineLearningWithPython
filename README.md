@@ -11,6 +11,7 @@ The given repository showcases the application of various algorithms available a
 ## Index
 
 - [Cancer Diagnosis](#section1)<br>
+- [Hair Type Detection](#section2)<br>
 [](#section2)<br>
 
 <a id=section1></a>
@@ -20,4 +21,7 @@ The given repository showcases the application of various algorithms available a
 - The best way to treat and overcome Cancer of anytype, and not only Breast Cancer is to diagnoze as early as possible.
 - An endaveour to save lives buy predicting breast cancer.
 - [Link for the Jupyter notebook](./CancerDiagnosis/Cancer_Diagnosis.ipynb)
+
+<a id=section2></a>
+### [Hair Type Detection](./HairTypeDetection)
 
