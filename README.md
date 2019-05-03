@@ -11,7 +11,7 @@ The given repository showcases the application of various algorithms available a
 ## Index
 
 - [Cancer Diagnosis](#section1)<br>
-- [Hair Type Detection](#section2)<br>
+- [Character Detection](#section2)<br>
 [](#section2)<br>
 
 <a id=section1></a>
@@ -22,9 +22,4 @@ The given repository showcases the application of various algorithms available a
 - An endaveour to save lives buy predicting breast cancer.
 - [Link for the Jupyter notebook](./CancerDiagnosis/Cancer_Diagnosis.ipynb)
 
-<a id=section2></a>
-### [Character Detection](./HairTypeDetection)
-![image.PNG](images/hairtype.PNG)<img align="right"><br><br>
-- __Ghouls, Goblin & Ghosts__ are mostly related with ___halloween___ characters. _Ghouls_ who are considered to be evil spirt, _Goblins_ are mischievous, ugly creatures. _Ghosts_ on other hand are sprits who are yet to take a new form of life.
-- The data set here attempts to distinguish between the three characters, based upon the bone,flesh,soul and color
-- [Link for the Jupyter notebook](./HairTypeDetection/HairTypeDetection.ipynb)
+
