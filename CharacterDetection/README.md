@@ -30,13 +30,13 @@
 
 ### Classifiers Used
 - As we are dealing with classification problem, hence the following modeling techniques are deployed.
-        ___Decision Tree___
-        ___Random Forest___
-        ___Logistic Regression___
-        ___K-Nearest neighbor___
-        ___Bagging___
-        ___Gradient Boosting___
-        ___Support Vector Machines___
+      * ___Decision Tree___
+      * ___Random Forest___
+      * ___Logistic Regression___
+      * ___K-Nearest neighbor___
+      * ___Bagging___
+      * ___Gradient Boosting___
+      * ___Support Vector Machines___
 - In order to achieve best parameters for mentioned classifiers, grid search CV has been used.
 - Further to get the best of all the classifiers Voting classifier has been used to get the maximum accuracy.
 
