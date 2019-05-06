@@ -1,4 +1,5 @@
 # Character Detection
+![image.PNG](images/charac.PNG)<img align="right"><br><br>
 - Character Detection or Character identification draws its roots from the most primitive problems in machine learning i.e ___Classification___. 
 - It is one of the arena of Machine learning wherein it is possible to identify an object or predict the outcome based on the similar inputs features that we have understood /trained earlier.
 
@@ -15,8 +16,10 @@
 - The output i.e characters Ghouls, Goblin & Ghosts are also categorical.
 
 ### Exploratory Data Analysis
+![image.PNG](images/heatmap.PNG)<img align="right"><br><br>
 - None of the dependent parameters i.e bone_length,rotting_flesh, hair_length, soul and color are highly co-related with each other
 - The dependent parameters show normal distribution by large and hence are very less skewed.
+![image.PNG](images/pairplot.png)<img align="right"><br><br>
 - The input parameters are normally distributed with respect to character type, and not large number of outliers are existent.
 - Hair length is least number of outliers across all the 3 character type i.e 1, & rotting flesh is maximum outliers i.e 4. However, these corresponds to infinitely small percentage in dataset i.e  0.26 % and 1.07% respectively and hence can be ignored during modelling.
 - From pair plot it is evident that all the 3 characters are quite neatly segregated with respect to inputs and not very much mixed with each other.
