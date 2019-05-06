@@ -28,6 +28,30 @@
 - From pair plot it is evident that all the 3 characters are quite neatly segregated with respect to inputs and not very much mixed with each other.
 - Label encoder is used for color feature.
 
+### Classifiers Used
+-As we are dealing with classification problem, hence the following modeling techniques are deployed.
+    _Decision Tree
+    Random Forest
+    Logistic Regression
+    K-Nearest neighbor.
+    Bagging.
+    Gradient Boosting.
+    Support Vector Machines._
+-In order to achieve best parameters for mentioned classifiers, grid search CV has been used.
+-Further to get the best of all the classifiers Voting classifier has been used to get the maximum accuracy.
+
+### Conclusion
+
+-The following accuracies has been found with varies algorithms
+    Decision Tree:                        60.2 %
+    KNN + Grid Search CV :                68.7%
+    Gradient Boost + Grid Search CV :     70.5%
+    Bagging + Grid Search CV  :           71.9%
+    RF + Grid Search CV :                 72.2%
+    Logistic Regression + Grid Search CV :73.3%
+On using __voting classifier__ for mentioned algorithms, the accuracy is ___79.4%___
+
+
 
 
 
