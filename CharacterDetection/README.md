@@ -29,16 +29,22 @@
 - Label encoder is used for color feature.
 
 ### Classifiers Used
-- As we are dealing with classification problem, hence the following modeling techniques are deployed.
-      
+###### As we are dealing with classification problem, hence the following modeling techniques are deployed.
+* ___Decision Tree___      
+* ___Random Forest___      
+* ___Logistic Regression___      
+* ___K-Nearest neighbor___      
+* ___Bagging___      
+* ___Gradient Boosting___      
+* ___Support Vector Machines___      
 - In order to achieve best parameters for mentioned classifiers, grid search CV has been used.
 - Further to get the best of all the classifiers Voting classifier has been used to get the maximum accuracy.
 
 ### Conclusion
 
-- The following accuracies has been found with varies algorithms.
-######    Decision Tree:                        60.2%
-######    KNN + Grid Search CV :                68.7%
+###### The following accuracies has been found with varies algorithms.
+    Decision Tree:                        60.2%
+    KNN + Grid Search CV :                68.7%
     Gradient Boost + Grid Search CV :     70.5%
     Bagging + Grid Search CV  :           71.9%
     RF + Grid Search CV :                 72.2%
