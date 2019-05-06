@@ -30,7 +30,7 @@
 
 ### Classifiers Used
 - As we are dealing with classification problem, hence the following modeling techniques are deployed.
-      * ___Decision Tree___
+      ###### ___Decision Tree___
       * ___Random Forest___
       * ___Logistic Regression___
       * ___K-Nearest neighbor___
