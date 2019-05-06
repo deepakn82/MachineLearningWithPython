@@ -22,6 +22,7 @@
 
 ![image.PNG](images/pairplot.png)<img align="right"><br><br>
 - The input parameters are normally distributed with respect to character type, and not large number of outliers are existent.
+![image.PNG](images/boxplot.png)<img align="right"><br><br>
 - Hair length is least number of outliers across all the 3 character type i.e 1, & rotting flesh is maximum outliers i.e 4. However, these corresponds to infinitely small percentage in dataset i.e  0.26 % and 1.07% respectively and hence can be ignored during modelling.
 - From pair plot it is evident that all the 3 characters are quite neatly segregated with respect to inputs and not very much mixed with each other.
 - Label encoder is used for color feature.
