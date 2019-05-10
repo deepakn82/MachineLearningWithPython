@@ -24,15 +24,15 @@
 - Below are featues of the data set
 > market : Name of Market.
 > month : Month of year.
-year : Year
-quantity : In tonnes
-priceMin : Minimum price
-priceMax : Maximum price
-priceMod : Price medium.
-state : Location
-city : City
-timeIndex : Nos od Days.
-date: Date
+> year : Year
+> quantity : In tonnes
+> priceMin : Minimum price
+> priceMax : Maximum price
+> priceMod : Price medium.
+> state : Location
+> city : City
+> timeIndex : Nos of Days.
+> date: Date
 
 
 Components of Time series
