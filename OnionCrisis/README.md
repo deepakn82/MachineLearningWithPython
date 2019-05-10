@@ -73,34 +73,32 @@
 	- Smooting: Taking moving averages/
 	- Polynomial Fitting: Fit a regression model.
 
-##### For non-stationarity time series with high seasoanility we use differencing.
+- _For non-stationarity time series with high seasoanility we use differencing._
+	- Other methods of eliminating trend and seasonality includes as below:
+-    Decomposition: It has two modes of using Time series components,
+- 	Based upon co-relation of components, the mode to be used is selected,
+-	Additive :When none of the component is related to each other, then the additive mode is used i.e 
+	Op = T+S+C+R
+-	Multiplicative:When components are related to each other, then the multiplicative mode is used i.e 
+-	Op = T*S*C*R
 
-Other methods of eliminating trend and seasonality includes as below:
-Decomposition: It has two modes of using Time series components,
-Based upon co-relation of components, the mode to be used is selected,
-Additive
-When none of the component is related to each other, then the additive mode is used i.e 
-Op = T+S+C+R
-Multiplicative
-When components are related to each other, then the multiplicative mode is used i.e 
-Op = T*S*C*R
+## Forecasting: Time series forecasting is done using smoothing techniques.
 
-Forecasting: Time series forecasting is done using smoothing techniques.
+-	Exponential Smoothing: Recent observation gets more importance than the older ones, by getting higher weights.
+- 	Different types of Exponentail Smoothing are as:
+> - Moving Average Smoothing
+> - Simple Exponential Smoothing
+> - Linear Exponential Smoothing
+> - Seasonal Exponential Smoothing
 
-Exponential Smoothing: Recent observation gets more importance than the older ones, by getting higher weights.
-Different types of Exponentail Smoothing are as:
-Moving Average Smoothing
-Simple Exponential Smoothing
-Linear Exponential Smoothing
-Seasonal Exponential Smoothing
+- However when the variable of interest has co-relation with itself over prior periods of time, we need to move ahead of the above existing methodologies.Examples of same include change in current temperature, stock price. 
 
-However when the variable of interest has co-relation with itself over prior periods of time, we need to move ahead of the above existing methodologies.
-Examples of above include change in current temperature, stock price, The following models are used to counter the effects of auto-correlation.
+## The following models are used to counter the effects of auto-correlation.
 
-Auto-regressive.(AR) : Current output depends on p previous values and current error.
-Moving Average(MA) : Current output depends on current mean of trend and previous q values of error
-ARMA(p,q): Combination of AR(p) and MA(q) models.
-ARIMA : ARMA with differencing of raw observations.
+- Auto-regressive.(AR) : Current output depends on p previous values and current error.
+- Moving Average(MA) : Current output depends on current mean of trend and previous q values of error
+- ARMA(p,q): Combination of AR(p) and MA(q) models.
+- ARIMA : ARMA with differencing of raw observations.
 
 
 
