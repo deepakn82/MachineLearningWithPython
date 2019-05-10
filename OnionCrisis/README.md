@@ -3,6 +3,8 @@
 #### What is time series ?
 - Data collected on basis of time is Time series data. Apart from Time Series we have Cross Sectional data when multiple inputs are gathered at particular time interval.
 
+![image.png](./images/tsanalysis.png)<br><br>
+
 #### Need of Time Series
 - Study behaviour of data with respect to time.
 - Analyze trend to forecast future.
