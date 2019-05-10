@@ -33,6 +33,8 @@
 > - city : City
 > - timeIndex : Nos of Days.
 > - date: Date
+![image.png](plotdata.png)<br><br>
+
 
 ## Components of Time series
 - Time series has four components, 
