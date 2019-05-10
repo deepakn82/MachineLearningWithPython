@@ -47,6 +47,8 @@
 -Random/Irregular. (R)
 -	Unexpected spike or variation in Time series data.
 
+![image.png](./images/compdecom.png)<br><br>
+
 #### White noise:
 - When data or Time series has all variables with same variance (sigma^2) and each value has a zero correlation with all other values in the series
 
@@ -65,6 +67,8 @@
 > - Critical Value (1%)             -3.476927
 > - Critical Value (5%)             -2.881973
 > - Critical Value (10%)            -2.577665
+
+![image.png](./images/stationarycheck.png)<br><br>
 
 #### Making time series stationary:
 - Components that cause the Time Series to be non-stationary are
@@ -101,6 +105,8 @@
 - Moving Average(MA) : Current output depends on current mean of trend and previous q values of error
 - ARMA(p,q): Combination of AR(p) and MA(q) models.
 - ARIMA : ARMA with differencing of raw observations.
+
+![image.png](./images/arima_final.png)<br><br>
 
 
 
