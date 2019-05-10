@@ -24,33 +24,31 @@
 - Below are featues of the data set
 > - market : Name of Market.
 > - month : Month of year.
-> year : Year
-> quantity : In tonnes
-> priceMin : Minimum price
-> priceMax : Maximum price
-> priceMod : Price medium.
-> state : Location
-> city : City
-> timeIndex : Nos of Days.
-> date: Date
+> - year : Year
+> - quantity : In tonnes
+> - priceMin : Minimum price
+> - priceMax : Maximum price
+> - priceMod : Price medium.
+> - state : Location
+> - city : City
+> - timeIndex : Nos of Days.
+> - date: Date
 
+####Components of Time series
+- Time series has four components, 
+- Trend (T) 
+-	Enables to get the particular pattern over a period of time.i.e the data is in uptrend, download or sideways
+-Seasonality (S)
+-	Enables to observe effect of season or pattern at regular interval,It is a periodic patterm for eg, sales of ice-cream in summer and woolen apparales in Winter.
+-Cyclic (C)
+-	Enables to identify a long term trend,it is a non-periodic i.e depression, recession.
+-Random/Irregular. (R)
+-	Unexpected spike or variation in Time series data.
 
-Components of Time series
-Time series has four components, 
-Trend (T) 
-	Enables to get the particular pattern over a period of time.i.e the data is in uptrend, download or sideways
-Seasonality (S)
-	Enables to observe effect of season or pattern at regular interval,It is a periodic patterm for eg, sales of ice-cream in summer and woolen apparales in Winter.
-Cyclic (C)
-	Enables to identify a long term trend,it is a non-periodic i.e depression, recession.
-Random/Irregular. (R)
-	Unexpected spike or variation in Time series data.
+#### White noise:
+- When data or Time series has all variables with same variance (sigma^2) and each value has a zero correlation with all other values in the series
 
-
-White noise:
-When data or Time series has all variables with same variance (sigma^2) and each value has a zero correlation with all other values in the series
-
-Concept of stationarity:
+####Concept of stationarity:
 	Time Series is considered to be stationarity whose statistical properties such as mean, variance, autocorrelation are all constant over time.
 	It is checked by below methods, 
 		Rolling mean : It is more of visual method, to check that mean, variance and co-variance does not varies with time.
