@@ -34,7 +34,7 @@
 > - timeIndex : Nos of Days.
 > - date: Date
 
-####Components of Time series
+## Components of Time series
 - Time series has four components, 
 - Trend (T) 
 -	Enables to get the particular pattern over a period of time.i.e the data is in uptrend, download or sideways
@@ -48,39 +48,33 @@
 #### White noise:
 - When data or Time series has all variables with same variance (sigma^2) and each value has a zero correlation with all other values in the series
 
-####Concept of stationarity:
-	Time Series is considered to be stationarity whose statistical properties such as mean, variance, autocorrelation are all constant over time.
-	It is checked by below methods, 
-		Rolling mean : It is more of visual method, to check that mean, variance and co-variance does not varies with time.
-		ADF test. ADF test starts with assumption of TS being non-stationary, The TS is only decleared to be stationary when the Test Statistic is < critical values.
+#### Concept of stationarity:
+-	Time Series is considered to be stationarity whose statistical properties such as mean, variance, autocorrelation are all constant over time.
+-	It is checked by below methods, 
+		- Rolling mean : It is more of visual method, to check that mean, variance and co-variance does not varies with time.
+		- ADF test. ADF test starts with assumption of TS being non-stationary, The TS is only decleared to be stationary when the Test Statistic is < critical values.
 
-In the given data set, we can see that TS < 1%, 5% and 10% of critical values and confirm that the given Time series is stationaty.
-Result of ADF test:
-Test Statistic                  -4.004401
-p-value                          0.001388
-#Lags Used                       2.000000
-Number of Observations Used    143.000000
-Critical Value (1%)             -3.476927
-Critical Value (5%)             -2.881973
-Critical Value (10%)            -2.577665
+- In the given data set, we can see that TS < 1%, 5% and 10% of critical values and confirm that the given Time series is stationaty.
+> - Result of ADF test:
+> - Test Statistic                  -4.004401
+> - p-value                          0.001388
+> - #Lags Used                       2.000000
+> - Number of Observations Used    143.000000
+> - Critical Value (1%)             -3.476927
+> - Critical Value (5%)             -2.881973
+> - Critical Value (10%)            -2.577665
 
+#### Making time series stationary:
+- Components that cause the Time Series to be non-stationary are
+- > Trend  Season
+- _Eliminating non-stationarity with respect to Trend_
+	- Aggregation: Taking average over a time period 
+	- Smooting: Taking moving averages/
+	- Polynomial Fitting: Fit a regression model.
 
+##### For non-stationarity time series with high seasoanility we use differencing.
 
-Making time series stationary:
-
-Components that cause the Time Series to be non-stationary are
-
-Trend  Season
-
-Eliminating non-stationarity with respect to Trend
-
-Aggregation: Taking average over a time period 
-Smooting: Taking moving averages/
-Polynomial Fitting: Fit a regression model.
-
-For non-stationarity time series with high seasoanility we use differencing.
-
-Other methods of eliminating trend and seasonality includes as below
+Other methods of eliminating trend and seasonality includes as below:
 Decomposition: It has two modes of using Time series components,
 Based upon co-relation of components, the mode to be used is selected,
 Additive
