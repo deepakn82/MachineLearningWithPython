@@ -32,7 +32,7 @@ The given repository showcases the application of various algorithms available a
 
 <a id=section3></a>
 ### [Onion Crisis of 2010](./OnionCrisis)
-![image.jpg](images/onion.jpg)<img align="right"><br><br>
+![image.jpg](images/onions.jpg)<img align="right"><br><br>
 - Indian onion crisis of 2010 involved the dramatic rise in the cost of onions across markets in India.
 - India is the second largest onion producer in the world, after China.
 - Onion shipments were reduced from 2000-3000 tons a day to 700-800 tons a day in New Delhi markets
