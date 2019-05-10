@@ -22,8 +22,8 @@
 - •Hindu OpEd in Dec 2010 - https://www.thehindu.com/opinion/editorial/The-political-price-of-onions/article15607000.ece
 - The purpose of this assignment is to predict the price of onion in Bangalore using ARIMA.
 - Below are featues of the data set
-> market : Name of Market.
-> month : Month of year.
+> - market : Name of Market.
+> - month : Month of year.
 > year : Year
 > quantity : In tonnes
 > priceMin : Minimum price
