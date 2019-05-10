@@ -76,11 +76,11 @@
 - _For non-stationarity time series with high seasoanility we use differencing._
 	- Other methods of eliminating trend and seasonality includes as below:
 -    Decomposition: It has two modes of using Time series components,
-- 	Based upon co-relation of components, the mode to be used is selected,
--	Additive :When none of the component is related to each other, then the additive mode is used i.e 
-	Op = T+S+C+R
--	Multiplicative:When components are related to each other, then the multiplicative mode is used i.e 
--	Op = T*S*C*R
+- 	__Based upon co-relation of components, the mode to be used is selected__,
+	- Additive :When none of the component is related to each other, then the additive mode is used i.e 
+	- Op = T+S+C+R
+	- Multiplicative:When components are related to each other, then the multiplicative mode is used i.e 
+	- Op = T * S * C * R
 
 ## Forecasting: Time series forecasting is done using smoothing techniques.
 
