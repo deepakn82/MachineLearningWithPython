@@ -66,8 +66,8 @@
 
 #### Making time series stationary:
 - Components that cause the Time Series to be non-stationary are
-- > 	___Trend___   
-- > 	___Season___
+- > 	Trend
+- > 	Season
 - _Eliminating non-stationarity with respect to Trend_
 	- Aggregation: Taking average over a time period 
 	- Smooting: Taking moving averages/
