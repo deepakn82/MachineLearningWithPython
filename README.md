@@ -39,5 +39,5 @@ The given repository showcases the application of various algorithms available a
 - The data set provided here is price of onions and objective here is to predict the price.
 - [Link for the Jupyter notebook](./OnionCrisis/timeseries.ipynb)
 
-- Upcoming projects:
--- Recommander Systems.
+### Upcoming projects:
+- Recommander Systems.
