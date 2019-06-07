@@ -38,3 +38,6 @@ The given repository showcases the application of various algorithms available a
 - Onion shipments were reduced from 2000-3000 tons a day to 700-800 tons a day in New Delhi markets
 - The data set provided here is price of onions and objective here is to predict the price.
 - [Link for the Jupyter notebook](./OnionCrisis/timeseries.ipynb)
+
+- Upcoming projects:
+-- Recommander Systems.
